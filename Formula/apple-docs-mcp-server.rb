@@ -1,4 +1,4 @@
-class MCPServer < Formula
+class AppleDocsMCPServer < Formula
   desc "MCP Server for Apple Developer Documentation"
   homepage "https://github.com/justindal/Apple-Docs-MCP"
   url "https://github.com/justindal/Apple-Docs-MCP/archive/refs/tags/v1.0.0.zip"
