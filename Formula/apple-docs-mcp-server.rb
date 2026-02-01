@@ -1,7 +1,7 @@
 class AppleDocsMcpServer < Formula
   desc "MCP Server for Apple Developer Documentation"
   homepage "https://github.com/justindal/Apple-Docs-MCP"
-  url "https://github.com/justindal/Apple-Docs-MCP/archive/refs/tags/v1.0.0.zip"
+  url "https://github.com/justindal/Apple-Docs-MCP/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "383c21cf24df81a7d4b983805c0e2020474d3a9eb96bdfe397d34247293d0df2"
   license "MIT"
   
